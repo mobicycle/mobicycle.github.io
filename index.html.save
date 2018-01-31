@@ -13,11 +13,9 @@
 	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 	})(window,document,'script','dataLayer','GTM-P4BZHSD');</script>
 	<!-- End Google Tag Manager -->
-
-	<!-- Start of HubSpot Embed Code -->
-	  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/1623655.js"></script>
-	<!-- End of HubSpot Embed Code -->
-
+<!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/1623655.js"></script>
+<!-- End of HubSpot Embed Code -->
 
 	<!-- Stylesheets	============================================= -->
 	<link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
@@ -2133,8 +2131,7 @@
 										64 Long Acre<br>
 										London, England, United Kingdom WC2E 9JD<br>                                            
 									</address>
-									<abbr title="Phone Number"><strong>Phone: +44 (0) 203 4323 175 </strong></abbr> <br>
-                                                                        <abbr title="Phone Number"><strong>SMS: 88 31403 4700 7626 </strong></abbr> <br>
+									<abbr title="Phone Number"><strong>Phone:</strong></abbr> (44) 8547 632521<br>
 									<abbr title="Email Address"><strong>Email:</strong></abbr> info@mobicycle.co.uk<br><br>
                                                                    
                   Companies House No. 08020802
